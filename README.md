@@ -2,7 +2,7 @@
 
 ## Pokedex-Kanto
 
-![Portada pokemon](http://subirimagen.me/uploads/20190110121629.jpg)
+![Portada pokemon](https://github.com/AndreaVCC/scl-2018-12-bc-core-data-lovers/blob/gh-pages/src/img/portadapokemon.jpg)
 
   
   
